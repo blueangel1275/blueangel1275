@@ -1,2 +1,2 @@
-Name : Junghoon Oh
-ID : 2020571004
+# Name : Junghoon Oh
+# ID : 2020571004
