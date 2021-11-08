@@ -1,2 +1,2 @@
-Name : Junghoon O
+Name : Junghoon Oh
 ID : 2020571004
